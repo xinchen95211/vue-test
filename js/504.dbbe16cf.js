@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvuefront"]=self["webpackChunkvuefront"]||[]).push([[504],{4504:function(e,r,t){t.r(r),t.d(r,{default:function(){return f}});var n=t(6252);function u(e,r){const t=(0,n.up)("el-result");return(0,n.wg)(),(0,n.j4)(t,{icon:"error",title:"404",subTitle:"抱歉，请求错误",style:{"margin-top":"10%"}})}var o=t(3744);const s={},c=(0,o.Z)(s,[["render",u]]);var f=c}}]);
-//# sourceMappingURL=504.dbbe16cf.js.map
